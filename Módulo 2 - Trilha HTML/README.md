@@ -1,3 +1,4 @@
+# <i> pt-br </i>
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
@@ -71,4 +72,76 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
-Bora pra cima!
+# <i> en-us </i>
+# HTML Track - Dio.me
+## Module 02 - HTML I - Basic Concepts
+
+This challenge aims to create a "almost" complete website, with everything we have seen in this module. The topics that should be addressed are:
+- Forms
+- Structuring and formatting of text
+- Media
+- Tables
+
+In addition to other resources spoken in class!
+
+## Instructions
+1. You must create a website of a medical clinic (you choose the specialty)
+2. This website should contain the following navigation menu:
+    - Main Page
+    about clinic
+    - Hours of Service
+    - Contact
+3. You must use all subjects covered in class.
+
+Below is how each page should be created and structured.
+
+### Structure of pages
+
+All pages will have to follow a predefined pattern. Since we haven't learned about CSS yet, use the `template.html` file to use as a base. It follows a similar structure to image below.
+
+![Structure](https://i.stack.imgur.com/9jI6f.gif)
+
+\* _No template has some colors but it is only for better viewing. Feel free to change in the best way._
+
+In the **Menu**, will be located the navigation menu (ah go!), in the **Header** of each page will be an image, in the **Footer** contact information, and the **Content** is the content of each page.
+### Main Page
+1. Must have an image in **Header**.
+2. In **Content** a brief description about the clinic.
+3. **Menu** and **Footer* standards on all pages.
+
+### About the clinic
+1. Must have a different image in the **Header**.
+2. In **Content** a text talking about the clinic.
+3. **Menu** and **Footer* standards on all pages.
+
+### Hours of Service
+1. Must have a different image in the **Header**.
+2. In **Content** a short text talking about the services, and a price list, where each line is a service, with the price of each according to the days of the week.
+
+|Services |Monday to Friday | Saturdays | Holidays |
+|--|---|---|---|
+|General practice | 08h - 19h | 08h - 14h | 08h - 14h |
+|Psychology | 08h - 19h | 08h - 14h | 08h - 14h |
+|Pediatrics | 08h - 19h | 08h - 18h | - |
+|Ophthalmology | 08h - 19h | 08h - 18h | - |
+|||||
+
+3. **Menu** and **Footer* standards on all pages.
+
+
+### Contact
+1. Must have a different image in the **Header**.
+2. In **Content** you must have:
+    - Contact phones (mobile and whatsapp)
+    - Full address of the clinic
+    - An Iframe with Google Maps pointing the address of the clinic
+    - A contact form with:
+        - Name (type="text")
+        - Email (type="email")
+        - Subject (type="text")
+        - Message (textarea)
+        - Submissions buttons and clear form
+
+3. **Menu** and **Footer* standards on all pages.
+
+Challenge is launched! With everything we learned in Module II it is perfectly possible to create this site!

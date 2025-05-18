@@ -1,3 +1,4 @@
+# <i> pt-br </i>
 # Módulo 3 - Trilha HTML
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
@@ -14,4 +15,23 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
+- [Wikipedia](https://pt.wikipedia.org/)
+
+# <i> en-us </i>
+# Module 3 - HTML Track
+
+**Title:** Recreating Wikipedia, with a better layout :)
+
+## Goal
+This challenge consists of training you in relation to the structure of the site, and also applying acquired knowledge about semantics and accessibility.
+
+## Challenge
+In this repository has a basic structure already pre-assembled from a simple layout with a little CSS applied. Just to make it more presentable.
+
+Feel free to create the way you want, and on the topics you want. The aim here is to have fun, and at the same time learn from the challenge.
+
+Follow the video call instructions. I believe that there, it will be easier for them to understand how to proceed.
+
+## Useful links
+- [NVDA download](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
